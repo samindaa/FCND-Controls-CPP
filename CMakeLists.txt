@@ -19,8 +19,6 @@ list(APPEND SOURCES ${SOURCE_FILES})
 file(GLOB SOURCE_FILES "src/MavlinkNode/*.cpp")
 list(APPEND SOURCES ${SOURCE_FILES})
 
-#include_directories(/Users/saminda/Downloads/protoc-3/include /usr/local/include)
-
 set(HEADERS "")
 list(APPEND HEADERS "src")
 list(APPEND HEADERS "src/Drawing")
