@@ -1,3 +1,5 @@
+#include <iostream>
+
 #include "Common.h"
 #include "Trajectory.h"
 #include "Utility/Timer.h"
